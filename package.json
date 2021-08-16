@@ -16,7 +16,7 @@
     },
     "devDependencies": {
         "@sap/ux-specification": "^1.90.6",
-        "sqlite3": "^5.0.2"
+        "sqlite3": "^4.2.0"
     },
     "engines": {
         "node": ">=14"
